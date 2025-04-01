@@ -1,0 +1,54 @@
+﻿<Window x:Class="magazyn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:magazyn"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ComboBox Grid.Column="0" Margin="10, 20, 10, 20" HorizontalContentAlignment="Center">
+                <ComboBoxItem Content="Kategoria"/>
+                <ComboBoxItem Content="Firma"/>
+                <ComboBoxItem Content="Rozmiar"/>
+                <ComboBoxItem Content="Kolor"/>
+            </ComboBox>
+            <ComboBox Grid.Column="1" Margin="10, 20, 10, 20" HorizontalContentAlignment="Center">
+                <ComboBoxItem Content="A-Z / Rosnąco"/>
+                <ComboBoxItem Content="Z-A / Malejąco"/>
+            </ComboBox>
+            <Button Grid.Column="2" Margin="10, 20, 10, 20" Width="50" Content="Dodaj"/>
+            <Button Grid.Column="3" Margin="10, 20, 10, 20" Width="50" Content="Usuń"/>
+            <TextBox Grid.Column="4" Grid.ColumnSpan="2" Margin="10, 20, 10, 20" VerticalAlignment="Center" Padding="2"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <ListView x:Name="lstProdukty">
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="Kod" Width="50" DisplayMemberBinding="{Binding Kod}"/>
+                            <GridViewColumn Header="Firma" Width="100" DisplayMemberBinding="{Binding Firma}"/>
+                            <GridViewColumn Header="Kategoria" Width="100" DisplayMemberBinding="{Binding Kategoria}"/>
+                            <GridViewColumn Header="Nazwa" Width="100" DisplayMemberBinding="{Binding Nazwa}"/>
+                            <GridViewColumn Header="Kolor" Width="100" DisplayMemberBinding="{Binding Kolor}"/>
+                            <GridViewColumn Header="Cena" Width="50" DisplayMemberBinding="{Binding Cena}"/>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

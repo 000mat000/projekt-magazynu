@@ -1,0 +1,74 @@
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\bin\Debug\magazyn.exe.config
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\bin\Debug\magazyn.exe
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\bin\Debug\magazyn.pdb
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.csproj.AssemblyReference.cache
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\MainWindow.g.cs
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\App.g.cs
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn_MarkupCompile.cache
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn_MarkupCompile.lref
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\MainWindow.baml
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.g.resources
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.Properties.Resources.resources
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.csproj.GenerateResource.cache
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.csproj.CoreCompileInputs.cache
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.exe
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\magazyn.pdb
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\Dodaj.g.cs
+C:\Users\Wojtaszek\Desktop\magazyn\magazyn\obj\Debug\Dodaj.baml
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\bin\Debug\magazyn.exe.config
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\bin\Debug\magazyn.exe
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\bin\Debug\magazyn.pdb
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.AssemblyReference.cache
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\Dodaj.g.cs
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\MainWindow.g.cs
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\App.g.cs
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn_MarkupCompile.cache
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn_MarkupCompile.lref
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\Dodaj.baml
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\MainWindow.baml
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.g.resources
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.Properties.Resources.resources
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.GenerateResource.cache
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.CoreCompileInputs.cache
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.exe
+C:\Users\Wojtaszek\OneDrive - Zespół Szkół nr 6 im. Króla Jana III Sobieskiego\Programowanie aplikacji desktopowych\magazyn - projekt\magazyn\obj\Debug\magazyn.pdb
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\x86\sqlite3.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\x64\sqlite3.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\magazyn.exe.config
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\magazyn.exe
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\magazyn.pdb
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\EntityFramework.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Buffers.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Data.SQLite.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Memory.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\EntityFramework.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Buffers.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Data.SQLite.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Memory.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.AssemblyReference.cache
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\Dodaj.g.cs
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\MainWindow.g.cs
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\App.g.cs
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn_Content.g.cs
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn_MarkupCompile.cache
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn_MarkupCompile.lref
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\Dodaj.baml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\MainWindow.baml
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.g.resources
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.Properties.Resources.resources
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.GenerateResource.cache
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.CoreCompileInputs.cache
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.csproj.Up2Date
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.exe
+C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\obj\Debug\magazyn.pdb
