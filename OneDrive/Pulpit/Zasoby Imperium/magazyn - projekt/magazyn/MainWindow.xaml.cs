@@ -31,7 +31,7 @@ namespace magazyn
         public void polaczZBaza()
         {
             SQLiteConnection conn = new SQLiteConnection();
-            conn.ConnectionString = @"Data Source=C:\Users\igork\OneDrive\Pulpit\Zasoby Imperium\magazyn - projekt\magazyn\buty.db;Varsion=3";
+            conn.ConnectionString = @"Data Source=.\buty.db;Version=3";
             conn.Open();
             SQLiteCommand cmd = new SQLiteCommand();
             cmd.Connection = conn;
